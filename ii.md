@@ -285,7 +285,7 @@ We identified functions like `schedule()` and data structures such as `task_stru
 
 ### Round Robin Advantage:
 
-A large multi-user system (e.g., university lab servers) benefits from Round Robin because it ensures fair CPU time-sharing among all users, preventing starvation.
+A large multi-user system benefits from Round Robin because it ensures fair CPU time-sharing among all users, preventing starvation.
 
 ### SJF Advantage:
 
